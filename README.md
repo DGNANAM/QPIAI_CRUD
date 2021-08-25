@@ -1,30 +1,36 @@
-# Step 1
-# clone the git repository git clone https://github.com/DGNANAM/QPIAI_CRUD.git
-#Step 2
-#npm install
-#Step 3
-#To start the server use npm start command
+# Instructions for running:
+
+1. git clone https://github.com/DGNANAM/Superops-ai-assignment.git
+
+2. npm install
+
+3. npm start
+
+4. Use postman or any other tool to check API
 
 
-#API to check
+# API to check
 
-GET localhost:8080/
-Sample:
-{
-    "Message": "Welcome to express application"
-}
+1. GET localhost:8080/
 
-POST localhost:8080/post
-sample data:
-{
-"name":"test3",
-"id":1
-}
+    Sample:
+    {
+        "Message": "Welcome to express application"
+    }
 
-PUT localhost:8080/put/2
-sample:
-{
-"name":"test2"
-}
+2. POST localhost:8080/post
 
-DELETE localhost:8080/delete/2
+    sample data:
+    {
+    "name":"test3",
+    "id":1
+    }
+
+3. PUT localhost:8080/put/2
+
+    sample:
+    {
+    "name":"test2"
+    }
+
+4. DELETE localhost:8080/delete/2
