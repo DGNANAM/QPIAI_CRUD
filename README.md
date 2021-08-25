@@ -1,6 +1,6 @@
 # Instructions for running:
 
-1. git clone https://github.com/DGNANAM/Superops-ai-assignment.git
+1. git clone https://github.com/DGNANAM/QPIAI_CRUD.git
 
 2. npm install
 
